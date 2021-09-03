@@ -59,7 +59,7 @@ public class Exercises {
 // is a BufferedReader which will be opened for you on the text file.
 // See the JUnit @Before and @After methods at the bottom of this file.
 // The text file is "SonnetI.txt" (Shakespeare's first sonnet) which is
-// located at the root of this NetBeans project.
+// located at the root of this project.
 
     @Test @Disabled
     public void countLinesInFile() throws IOException {
